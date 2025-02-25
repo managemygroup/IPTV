@@ -144,6 +144,9 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
+| 1   | BBC One | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png"/> | BBCOne.uk |
+| 2   | BBC Two | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png"/> | BBCTwo.uk |
+| 3   | ITV 1 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png"/> | ITV1.uk |
 | 7   | London Live | [x]() | <img height="20" src="https://i.imgur.com/2I8RBhY.png"/> |
 | 66  | CITV        | [x]() | <img height="20" src="https://i.imgur.com/EhscUNY.png"/> |
 | 52  | Shopping Quarter | [x]() | <img height="20" src=""/> |
